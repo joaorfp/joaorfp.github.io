@@ -1,15 +1,40 @@
 body {
     font-family: sans-serif;
-    background-color: rgb(255, 255, 0);
-
+    color: white;
+    background-color: black;
 }
 #name-font {
     font-family: monospace;
 }
 #description-font {
     font-family: arial;
+    font-style: italic;
 }
 h1 {
     color: grey;
     text-align: center;
+}
+#towns {
+    font-size: 19px;
+    color: rebeccapurple;
+    font-style: inherit;
+}
+#list-costumize {
+    background-color: red;
+    font-family: cursive;
+}
+.term-1 {
+    font-size: 20px;
+}
+.term-2 {
+    font-size: 19px;
+}
+.term-3 {
+    font-size: 18px;
+}
+.term-4 {
+    font-size: 21px;
+}
+.term-5 {
+    font-size: 22px;
 }
