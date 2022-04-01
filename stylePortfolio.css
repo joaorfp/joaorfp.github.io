@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(255, 255, 0);
+
+}
+#name-font {
+    font-family: monospace;
+}
+#description-font {
+    font-family: arial;
+}
+h1 {
+    color: grey;
+    text-align: center;
+}
