@@ -1,7 +1,7 @@
 body {
   font-family: sans-serif;
   color: white;
-  background-image: url(./wallpaperportfolio4k.jpg);
+  background-image: url(./Trybe_case_v1.030-1.jpg);
   background-attachment: fixed;
   background-size: 100%;
   background-repeat: no-repeat;
@@ -9,10 +9,9 @@ body {
 }
 .div-photo {
   position: inherit;
-  padding-left: 43%;
+  padding-left: 44%;
 }
 .div-description {
-  border: 5px solid red;
   text-align: center;
   position: inherit;
 }
@@ -25,7 +24,7 @@ body {
   font-style: italic;
 }
 h1 {
-  color: grey;
+  color: black;
   text-align: center;
 }
 h3 {
