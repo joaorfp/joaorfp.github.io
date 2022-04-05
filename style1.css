@@ -1,0 +1,87 @@
+body {
+  background-image: url(./wp4676574-4k-pc-wallpapers.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow: auto;
+}
+::-webkit-scrollbar {
+    width: 10px;
+}
+::-webkit-scrollbar-track {/* scrollbar inspirada na pagina da OnebitCode */
+    background: #ff0043;  
+}
+::-webkit-scrollbar-thumb {
+    background: #000000;
+    border-radius: 30px;
+}
+.header {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  color: white;
+  padding: 2%;
+  text-align: center;
+  margin: 0px;
+  font-family: monospace;
+}
+
+.navigation {
+  margin-top: -15px;
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  color: white;
+  font: bold;
+}
+#foto-de-perfil {
+  width: 150px;
+  height: 200px;
+  margin-left: 880px;
+}
+.article-photo {
+  color: white;
+}
+.article-general {
+    color: white;
+    font-size: 25px;
+    text-align: center;
+}
+/*.article-city {
+    color: white;
+    font-size: 25px;
+    text-align: center;
+}
+.article-hobbies {
+    color: white;
+    font-size: 25px;
+    text-align: center;
+}
+.article-abilities {
+    color: white;
+    font-size: 25px;
+    text-align: center;
+}*/
+.footer {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  color: white;
+  padding: 20px;
+  margin: 30px;
+  text-align: left;
+}
+.aside {
+    text-align: right;
+    color: white;
+    font-size: 18px;
+    padding-left: 1760px;
+    width: 100px;
+}
+
+
+
+
+
+h1 {
+    color: white;
+}
